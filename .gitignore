@@ -1,0 +1,22 @@
+# FastF1 data cache
+cache/
+.cache/
+*.sqlite
+*.ff1pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment and IDE
+.env
+.vscode/
+.idea/
+.DS_Store
